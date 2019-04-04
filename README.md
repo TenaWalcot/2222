@@ -1,6 +1,9 @@
 # 2222
 The official repository of class 2 grade 10 of SHSBNU PGA
-# 如何下载
+
+---
+
+# 关于下载
 ## 1.下载所有文件
 ### 1.傻瓜版
 直接点击主页右上角的Clone or download下的Download Zip
@@ -32,6 +35,8 @@ The official repository of class 2 grade 10 of SHSBNU PGA
 在本地的任意文件夹里打开git bash
 
 输入svn co url(改完的)
+
+---
 
 再不会微信@我吧
 
