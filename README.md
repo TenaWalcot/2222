@@ -33,7 +33,7 @@ The official repository of class 2 grade 10 of SHSBNU PGA
 
 输入svn co url(改完的)
 
-再不会就用邮箱或微信@我吧
+再不会微信@我吧
 
 Github真的是个好东西，等我有时间在写怎么上传
 
